@@ -105,8 +105,8 @@ export const PROJECTS: Project[] = [
     description: "An intelligent app that helps you find meals based on ingredients in your fridge and dietary needs like vegan or vegetarian.",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Spoonacular API"],
     imageUrl: "chef.png",
-    liveUrl: "https://recipe-finder-theta-murex.vercel.app/",
-    repoUrl: "https://github.com/heudjeuchristian/Recipe-finder",
+    liveUrl: "https://recipe-generator-vert-theta.vercel.app/",
+    repoUrl: "https://github.com/heudjeuchristian/recipe-generator",
   },
   {
     title: "AI Code Assistant",
